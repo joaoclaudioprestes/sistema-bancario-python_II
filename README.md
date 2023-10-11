@@ -31,7 +31,7 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir pro
 
 ## Autor ✍️
 
-Este projeto foi desenvolvido por [Seu Nome] durante o bootcamp de Ciências de Dados promovido pelo iFood e Cubos Academy.
+Este projeto foi desenvolvido por João Claudio Prestes durante o bootcamp de Ciências de Dados promovido pelo iFood e Cubos Academy.
 
 ## Licença 📜
 
